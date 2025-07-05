@@ -3,7 +3,7 @@ export const membersData = [
     id: 1,
     name: '山田 太郎',
     nickname: 'タロちゃん',
-    message: 'またみんなで集まりたいね！'
+    message: 'みんな元気？'
   },
   {
     id: 2,
